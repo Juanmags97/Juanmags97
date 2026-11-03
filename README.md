@@ -49,6 +49,7 @@ Hechos con **Claude (Anthropic)**, Node.js y Cloudflare Workers + D1. Se configu
 
 ## 📫 Contacto
 
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp_Oni-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5493876368439)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmagonzalez097)
 [![Instagram](https://img.shields.io/badge/-Oni_Solutions-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/oni.solutions.cba)
 [![Website](https://img.shields.io/badge/-onisolutions.com.ar-9D4EDD?style=flat-square&logo=googlechrome&logoColor=white)](https://onisolutions.com.ar)
